@@ -73,10 +73,10 @@ int main(){
     case 20:
       printf("Very doubtful\n");
       break;
-    
+
     default:
-    printf("Error\n");
-    break;
+      printf("Error\n");
+      break;
   }
 
 return 0;
