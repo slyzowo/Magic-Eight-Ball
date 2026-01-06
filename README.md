@@ -1,3 +1,3 @@
 # Magic-Eight-Ball
 
-Simple magic eight ball program
+A simple magic eight ball program made in c23.
